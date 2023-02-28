@@ -1,6 +1,5 @@
 import Base.BaseTest;
 import Pages.AllPages;
-import Pages.MainPage;
 import Utilities.ConfigReader;
 import org.testng.annotations.Test;
 public class TC001 extends BaseTest {

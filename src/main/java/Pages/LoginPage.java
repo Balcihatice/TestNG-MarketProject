@@ -21,5 +21,4 @@ public class LoginPage extends BaseStepMethod {
         clickElement(BTN_LOGINPAGE_LOGINBUTTON2);
 
     }
-
 }
